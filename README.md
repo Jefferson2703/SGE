@@ -3,8 +3,10 @@
 
 ### Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+Grupo 1 
+* Jefferson Guerra de Santana
+* Matheus Ribeiro Ferraz 
+* Breno Vasconcelos
+
+Grupo 2
+
