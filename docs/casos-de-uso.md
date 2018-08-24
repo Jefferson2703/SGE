@@ -60,4 +60,25 @@
 
 ## CDU003
 
+|Identificador                |CDU003                                                                  |
+|:---------------------------:|:----------------------------------------------------------------------:|
+|Nome                         |Cadastrar Aluno                                                       |
+|Atores                       |Administrador                                                            |
+|Sumário                      |Administrador acessa sistema para cadastrar o Aluno  |
+|Complexidade                 |Alta                                                                    |
+|Regras de Negócio            |N/D                                                                     |
+|Pré- Condições               |Administrador deve estar logado no sistema (como Admin)                                  |
+|Pós-Condições                |N/D                                                                     |
+|Pontos de Inclusão           |N/D                                                       |
+|Pontos de Extensão           |N/D                                                                     | 
+
+
 ### Fluxo principal
+
+|Ações do Ator                                              |Ações do Sistema                           | 
+|:---------------------------------------------------------:|:-----------------------------------------:|
+|1. Administrador acessa o menu de cadastramento            |                                           |
+|                                                           |2. Sistema exibe a tela de cadastramento   |
+|3. Administrador seleciona que o cadastramento é de aluno  |                                           |
+|4. Administrador preenche formulário de cadastramento      |                                           |
+|                                                           |5. O Sistema grava o cadastro do aluno     |
