@@ -1,10 +1,14 @@
 
-## Fluxo de Exceção 1 - Login/Senha Incorretos
+## Fluxo de Alternativo 1 - Cadastrar professor 
+ 
+ 1 - Administrador acesso o sistema colocando seu login e senha.
+ 2 - Administrador acessa o menu de cadastro 
+ 3 - Seleciona o cadastro de professor
+ 4 - O administrador preenche o formulário com as informações de Nome,RG,CPF,Data de Nascimento,CEP,Endereço, numero.
+ 5 - O administrador salva o cadastro do Aluno.
+ 
 
-|Ações do Ator                                         |Ações do Sistema                                               | 
-|:----------------------------------------------------:|:-------------------------------------------------------------:|
-|1. O Professor insere Login e Senha no sisema         |                                                               |
-|                                                      |2. O Sistema válida a entrada do usuário                       |
-|3. Aluno acessa o sistema                             |                                                               |
-|4. O Aluno acessa a disciplina que deseja ver a nota  |                                                               |
-|                                                      |5. O Sistema acessa a disciplina e exibi as notas para o Aluno |
+
+
+
+
