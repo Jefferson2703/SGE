@@ -1,1 +1,10 @@
 
+## Fluxo de Exceção 1 - Login/Senha Incorretos
+
+|Ações do Ator                                         |Ações do Sistema                                               | 
+|:----------------------------------------------------:|:-------------------------------------------------------------:|
+|1. O Professor insere Login e Senha no sisema         |                                                               |
+|                                                      |2. O Sistema válida a entrada do usuário                       |
+|3. Aluno acessa o sistema                             |                                                               |
+|4. O Aluno acessa a disciplina que deseja ver a nota  |                                                               |
+|                                                      |5. O Sistema acessa a disciplina e exibi as notas para o Aluno |
