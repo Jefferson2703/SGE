@@ -1,12 +1,22 @@
 
-## Fluxo de Alternativo 1 - Cadastrar professor 
- 
+## Fluxo Alternativo 1 - Cadastrar professor 
+ A1-
  1 - Administrador acesso o sistema colocando seu login e senha.
- 2 - Administrador acessa o menu de cadastro 
+   1.1 Sistema válida usuário e senha e deixa administrador logar. 
+   1.2 Caso o sistema não consiga validar o usuário o senha, volta para o passo 1 
+ 2 - Administrador acessa o menu de professor
+   2.1 No menu de professores o administrador consegue visualizar todos os professores. 
+   2.2 No menu de professores o administrador consegue, excluir professsor, alterar professor, bloquear professor, visualizar cadastro professor
  3 - Seleciona o cadastro de professor
  4 - O administrador preenche o formulário com as informações de Nome,RG,CPF,Data de Nascimento,CEP,Endereço, numero.
+  4.1 Para o administrador castrar o aluno todos o campos devem estar preenchidos corretamente.
  5 - O administrador salva o cadastro do Aluno.
- 
+ 6 - Sistema válida se os dados estão corretos. 
+   6.1 Se os dados estiverem corretos o sistema avança para o passo 7 
+   6.2 caso os dados estejam incompletos o faltando informaçães o sistema exibe mensagem informando para o usuário que o campo 'x' está incorreto 
+ 7 - O sistema grava o aluno e exibe a mensagem de aluno cadastrado.
+ 8 - Sistema gera um número de matricula para o aluno
+
 
 
 
