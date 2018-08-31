@@ -2,17 +2,17 @@
 
 ## CDU001
 
-|Identificador                |CDU001                                 |
-|:---------------------------:|:-------------------------------------:|
-|Nome                         |Acessar Sistema                        |
-|Atores                       |Aluno                                  |
-|Sumário                      |Aluno insere Login e Senha.            |
-|Complexidade                 |Baixa                                  |
-|Regras de Negócio            |Aluno deve estar cadastrado no sistema |
-|Pré- Condições               |N/D                                    |
-|Pós-Condições                |N/D                                    |
-|Pontos de Inclusão           |Verificar notas                        |
-|Pontos de Extensão           |N/D                                    |
+|Identificador                |CDU001                                                  |
+|:---------------------------:|:------------------------------------------------------:|
+|Nome                         |Verificar notas                                         |
+|Atores                       |Aluno                                                   |
+|Sumário                      |Aluno insere Login e Senha e verifica sua nota          |
+|Complexidade                 |Baixa                                                   |
+|Regras de Negócio            |Aluno deve estar cadastrado no sistema                  |
+|Pré- Condições               |N/D                                                     |
+|Pós-Condições                |N/D                                                     |
+|Pontos de Inclusão           |Verificar notas                                         |
+|Pontos de Extensão           |N/D                                                     |
 
 ### Fluxo principal
 
