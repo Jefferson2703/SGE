@@ -59,23 +59,53 @@
 
 |Identificador                |CDU003                                                                  |
 |:---------------------------:|:----------------------------------------------------------------------:|
-|Nome                         |Cadastrar Aluno                                                       |
-|Atores                       |Administrador                                                            |
-|Sumário                      |Administrador acessa sistema para cadastrar o Aluno  |
+|Nome                         |Cadastrar Aluno                                                         |
+|Atores                       |Administrador                                                           |
+|Sumário                      |Administrador acessa sistema para cadastrar o Aluno                     |
 |Complexidade                 |Alta                                                                    |
 |Regras de Negócio            |N/D                                                                     |
-|Pré- Condições               |Administrador deve estar logado no sistema (como Admin)                                  |
+|Pré- Condições               |Administrador deve estar logado no sistema (como Admin)                 |
 |Pós-Condições                |N/D                                                                     |
-|Pontos de Inclusão           |N/D                                                       |
+|Pontos de Inclusão           |N/D                                                                     |
 |Pontos de Extensão           |N/D                                                                     | 
 
 
-### Fluxo principal
+### Fluxo principal - Cadastrar Aluno 
 
-|Ações do Ator                                              |Ações do Sistema                           | 
-|:---------------------------------------------------------:|:-----------------------------------------:|
-|1. Administrador acessa o menu de cadastramento            |                                           |
-|                                                           |2. Sistema exibe a tela de cadastramento   |
-|3. Administrador seleciona que o cadastramento é de aluno  |                                           |
-|4. Administrador preenche formulário de cadastramento      |                                           |
-|                                                           |5. O Sistema grava o cadastro do aluno     |
+|Ações do Ator                                              |Ações do Sistema                                           | 
+|:---------------------------------------------------------:|:---------------------------------------------------------:|
+|1. Administrador acesso o menu de aluno                    |                                                           |
+|                                                           |2. Sistema exibe a tela de alunos ja cadastrados           |
+|3. Administrador seleciona a opção casdastrar aluno        |                                                           |
+|                                                           |4. Sistema exibe o formulário de cadastramento do aluno.   |
+|5. Administrador preenche formulário de cadastro do aluno  |                                                           |
+|                                                           |6. O Sistema informa que o cadastro do aluno foi salvo     |
+|                                                           |7. O sistema volta para o passo 2 do Fluxo principal       |
+
+## CDU004
+
+|Identificador                |CDU004                                                                  |
+|:---------------------------:|:----------------------------------------------------------------------:|
+|Nome                         |Cadastrar Professor                                                     |
+|Atores                       |Administrador                                                           |
+|Sumário                      |Administrador acessa sistema para cadastrar o Professor                      |
+|Complexidade                 |Alta                                                                    |
+|Regras de Negócio            |N/D                                                                     |
+|Pré- Condições               |Administrador deve estar logado no sistema (como Admin)                 |
+|Pós-Condições                |N/D                                                                     |
+|Pontos de Inclusão           |N/D                                                                     |
+|Pontos de Extensão           |N/D                                                                     | 
+
+
+### Fluxo principal - Cadastrar Professor 
+
+|Ações do Ator                                                 |Ações do Sistema                                                   | 
+|:------------------------------------------------------------:|:-----------------------------------------------------------------:|
+|1. Administrador acessa o menu de Professores                 |                                                                   |
+|                                                              |2. Sistema exibe a tela de professores já cadastrados              |
+|3. Administrador seleciona a opção casdastrar professores     |                                                                   |
+|                                                              |4. Sistema exibe o formulário de cadastramento dos professsores.   |
+|5. Administrador preenche formulário de cadastro do professor |                                                                   |
+|                                                              |6. O Sistema informa que o cadastro do professor foi salvo         |
+|                                                              |7. O sistema volta para o passo 2 do Fluxo principal               |
+
