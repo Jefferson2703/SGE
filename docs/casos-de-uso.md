@@ -21,11 +21,10 @@
 |1. O Aluno insere Login e Senha no sisema             |                                                               |
 |                                                      |2. O Sistema válida a entrada do Aluno                         |
 |3. Aluno acessa o sistema                             |                                                               |
-|                                                      |4.sistema exibe menu de opções.                                |
+|                                                      |4. Sistema exibe menu de opções.                               |
 |5. Aluno seleciona opção de notas                     |                                                               |
-|                                                      |6. Sistema exibe as disciplinas para o aluno.                  |
-|7. O Aluno acessa a disciplina que deseja ver a nota  |                                                               |
-|                                                      |8. O Sistema acessa a disciplina e exibi as notas para o Aluno |
+|                                                      |6. Sistema exibe as notas de cada disciplina do aluno          |
+
 
 ## CDU002
 
