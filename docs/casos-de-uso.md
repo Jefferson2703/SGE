@@ -40,7 +40,7 @@
 |Pontos de Inclusão           |Selecionar Aluno                                                        |
 |Pontos de Extensão           |N/D                                                                     | 
 
-### Fluxo principal
+### Fluxo principal - Cadastrar nota 
 
 |Ações do Ator                                                      |Ações do Sistema                                               | 
 |:-----------------------------------------------------------------:|:-------------------------------------------------------------:|
@@ -108,6 +108,33 @@
 |5. Administrador preenche formulário de cadastro do professor |                                                                   |
 |                                                              |6. O Sistema informa que o cadastro do professor foi salvo         |
 |                                                              |7. O sistema volta para o passo 2 do Fluxo principal               |
+
+### Fluxo Alternativo - excluir 
+
+|Ações do Ator                                                 |Ações do Sistema                                                   | 
+|:------------------------------------------------------------:|:-----------------------------------------------------------------:|
+|1. Administrador acessa o menu de Professores                 |                                                                   |
+|                                                              |2. Sistema exibe a tela de professores já cadastrados              |
+|3. Administrador encontrar o professor a ser excluido         |                                                                   |
+|4. Administrador clica no botão Excluir                       |                                                                   |
+|                                                              |5. Sistema exibe a mensagem para administrador confirma a exclusão.|
+|6. O administrador confirma a exclusao do professores         |                                                                   |
+|                                                              |7. O sistema exclui o professor                                    |
+
+### Fluxo Alternativo - Editar 
+
+|Ações do Ator                                                 |Ações do Sistema                                                   | 
+|:------------------------------------------------------------:|:-----------------------------------------------------------------:|
+|1. Administrador acessa o menu de Professores                 |                                                                   |
+|                                                              |2. Sistema exibe a tela de professores já cadastrados              |
+|3. Administrador encontrar o professor a ser editado          |                                                                   |
+|4. Administrador clica no botão editar                        |                                                                   |
+|                                                              |5. Sistema formulário com as informações do professor selecionado  |
+|6. O administrador altera as informações                      |                                                                   |
+|7. o administrador clica em salvar alterações.                |                                                                   |
+|                                                              |8. O sistema exibe a mensagem se o administrador realmente quer editar o professor | 
+|9. O administrador confirma o alteração                       |                                                                   |
+|                                                              |10. Sistema salva alteração                                        | 
 
 ## CDU005
 
