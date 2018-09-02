@@ -27,16 +27,6 @@
 |7. O Aluno acessa a disciplina que deseja ver a nota  |                                                               |
 |                                                      |8. O Sistema acessa a disciplina e exibi as notas para o Aluno |
 
-## Fluxo de Exceção 1 - Login/Senha Incorretos
-
-|Ações do Ator                                         |Ações do Sistema                                               | 
-|:----------------------------------------------------:|:-------------------------------------------------------------:|
-|1. O Professor insere Login e Senha no sisema         |                                                               |
-|                                                      |2. O Sistema válida a entrada do usuário                       |
-|3. Aluno acessa o sistema                             |                                                               |
-|4. O Aluno acessa a disciplina que deseja ver a nota  |                                                               |
-|                                                      |5. O Sistema acessa a disciplina e exibi as notas para o Aluno |
-
 ## CDU002
 
 |Identificador                |CDU002                                                                  |
@@ -55,11 +45,16 @@
 
 |Ações do Ator                                                      |Ações do Sistema                                               | 
 |:-----------------------------------------------------------------:|:-------------------------------------------------------------:|
-|1. Professor acessa a disciplina que deseja cadastrar a nota       |                                                               |
-|2. Professor seleciona o aluno                                     |                                                               |
-|3. Professor cadastra as notas                                     |                                                               |
-|                                                                   |4. O Sistema grava as notas cadastradas                        |
-|                                                                   |5. Sistema volta para o passo 1 do Fluxo principal             |
+|1. Professor acessa menu de Turmas                                 |                                                               |
+|                                                                   |2. Sistema exibe as turmas do professor                        |
+|3. Professor seliciona qual truma deseja lançar a nota             |                                                               |
+|                                                                   |4. O sistema exibe os alunos da turma selecionada              |
+|4. Professor seleciona qual aluno deseja lançar nota               |                                                               |
+|                                                                   |5. O sistema habilita os campos de notas para ser editado      |
+|6. Professor insere a nota do aluno.                               |                                                               |
+|7. Professor lança a nota do aluno.                                |                                                               |
+|                                                                   |8. O sistema informa que a nota do aluno foi gravada           |
+|                                                                   |9. O Sistema volta para o passo 4 do fluxo principal           |
 
 ## CDU003
 
