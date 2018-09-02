@@ -140,7 +140,7 @@
 
 |Identificador                |CDU006                                                                  |
 |:---------------------------:|:----------------------------------------------------------------------:|
-|Nome                         |Cadastrar Turma                                                         |
+|Nome                         |Cadastrar Curso                                                          |
 |Atores                       |Administrador                                                           |
 |Sumário                      |Administrador acessa sistema para cadastrar o Curso                     |
 |Complexidade                 |Alta                                                                    |
@@ -151,7 +151,7 @@
 |Pontos de Extensão           |N/D                                                                     | 
 
 
-### Fluxo principal - Cadastrar Turma
+### Fluxo principal - Cadastrar Curso 
 |Ações do Ator                                                 |Ações do Sistema                                                   | 
 |:------------------------------------------------------------:|:-----------------------------------------------------------------:|
 |1. Administrador acessa o menu de Curso                       |                                                                   |
@@ -164,33 +164,7 @@
 
 ## CDU007
 
-|Identificador                |CDU007                                                                  |
-|:---------------------------:|:----------------------------------------------------------------------:|
-|Nome                         |Cadastrar Turma                                                         |
-|Atores                       |Administrador                                                           |
-|Sumário                      |Administrador acessa sistema para cadastrar o turma                     |
-|Complexidade                 |Alta                                                                    |
-|Regras de Negócio            |N/D                                                                     |
-|Pré- Condições               |Administrador deve estar logado no sistema (como Admin)                 |
-|Pós-Condições                |N/D                                                                     |
-|Pontos de Inclusão           |N/D                                                                     |
-|Pontos de Extensão           |N/D                                                                     | 
-
-
-### Fluxo principal - Cadastrar Curso
-|Ações do Ator                                                 |Ações do Sistema                                                   | 
-|:------------------------------------------------------------:|:-----------------------------------------------------------------:|
-|1. Administrador acessa o menu de Curso                       |                                                                   |
-|                                                              |2. Sistema exibe a tela de Cursos já cadastrados                   |
-|3. Administrador seleciona a opção casdastrar Curso           |                                                                   |
-|                                                              |4. Sistema exibe o formulário de cadastramento dos Curso.          |
-|5. Administrador preenche formulário de cadastro do Curso     |                                                                   |
-|                                                              |6. O Sistema informa que o cadastro do Curso foi salvo             |
-|                                                              |7. O sistema volta para o passo 2 do Fluxo principal               |
-
-## CDU008
-
-|Identificador                |CDU008                                                                 |
+|Identificador                |CDU007                                                                 |
 |:---------------------------:|:----------------------------------------------------------------------:|
 |Nome                         |Cadastrar Turma                                                         |
 |Atores                       |Administrador                                                           |
