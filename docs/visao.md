@@ -16,5 +16,5 @@ O software poderá ser usuado através da web.
 
 ## Quais linguagens/tecnologias serão utilizadas para implementar este software?
 
-Front-end: HTML, CSS , ASP Classic, jAVASCRIPT 
-Back-end: C#, mySQL 
+Front-end: HTML, CSS, jAVASCRIPT 
+Back-end: SQL, PHP
