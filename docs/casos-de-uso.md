@@ -132,8 +132,7 @@
 |                                                              |5. Sistema formulário com as informações do professor selecionado  |
 |6. O administrador altera as informações                      |                                                                   |
 |7. o administrador clica em salvar alterações.                |                                                                   |
-|                                                              |8. O sistema exibe a mensagem se o administrador realmente quer    |
-|                                                              |   editar o professor                                              | 
+|                                                              |8. O sistema exibe a mensagem se o administrador realmente quer    |   editar o professor| 
 |9. O administrador confirma o alteração                       |                                                                   |
 |                                                              |10. Sistema salva alteração                                        | 
 
