@@ -8,8 +8,8 @@
 |Atores                       |Aluno                                                   |
 |Sumário                      |Aluno insere Login e Senha e verifica sua nota          |
 |Complexidade                 |Baixa                                                   |
-|Regras de Negócio            |Aluno deve estar cadastrado no sistema                  |
-|Pré- Condições               |N/D                                                     |
+|Regras de Negócio            |                                                        |
+|Pré- Condições               |Aluno deve estar cadastrado no sistema                  |
 |Pós-Condições                |N/D                                                     |
 |Pontos de Inclusão           |Verificar notas                                         |
 |Pontos de Extensão           |N/D                                                     |
@@ -132,7 +132,8 @@
 |                                                              |5. Sistema formulário com as informações do professor selecionado  |
 |6. O administrador altera as informações                      |                                                                   |
 |7. o administrador clica em salvar alterações.                |                                                                   |
-|                                                              |8. O sistema exibe a mensagem se o administrador realmente quer editar o professor | 
+|                                                              |8. O sistema exibe a mensagem se o administrador realmente quer    |
+|                                                              |   editar o professor                                              | 
 |9. O administrador confirma o alteração                       |                                                                   |
 |                                                              |10. Sistema salva alteração                                        | 
 
