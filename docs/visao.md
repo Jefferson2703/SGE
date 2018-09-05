@@ -3,16 +3,15 @@
 ## Nome do projeto: SGE - SISTEMA DE GESTÃO ESCOLAR 
 
 ## Principais funcionalidades (o que pessoas/empresas vão conseguir com este software?):
+
 Sistema é composto por três perfis (Admin, Professor, Aluno )
 
-Admin
+Administrador : 
 Tem a função de manter o sistema, cadastrando os professores, alunos, matérias, cursos e turmas.
 
-Professor
-No perfil do professor o mesmo consegue visualizar as suas materias e turmas, também visualiza todos os alunos que estão matriculados na suas matérias, e consegue lançar as notas dos alunos. 
+Professor: No perfil do professor o mesmo consegue visualizar as suas materias e turmas, também visualiza todos os alunos que estão matriculados na suas matérias, e consegue lançar as notas dos alunos. 
 
-Aluno
-No perfil do aluno, o mesmo consegue verificar suas notas.
+Aluno: No perfil do aluno, o mesmo consegue verificar suas notas.
 
 ## Como as pessoas/empresas vão usar este software?
 
