@@ -24,12 +24,3 @@ CREATE TABLE professores
      salario       VARCHAR(255) NOT NULL 
   ); 
   
-  CREATE TABLE disciplinas 
-  ( 
-     id         INTEGER PRIMARY KEY, 
-     curso      VARCHAR(255) NOT NULL, 
-     disciplina VARCHAR(255) NOT NULL, 
-     professor  VARCHAR(255) NOT NULL, 
-     sala       VARCHAR(255) NOT NULL, 
-     turno      VARCHAR(255) NOT NULL 
-  ); 
