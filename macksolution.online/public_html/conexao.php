@@ -3,7 +3,7 @@
 function conectar(){
     $servidor = "localhost";
 	$usuario = "u499668582_sge";
-	$senha= "@07094@";
+	$senha= "";
 	$bd = "u499668582_sge";
 	
 	$con = new mysqli($servidor, $usuario, $senha, $bd);
