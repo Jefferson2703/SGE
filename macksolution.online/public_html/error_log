@@ -1,0 +1,5 @@
+[14-Sep-2018 17:51:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u499668582_sge'@'localhost' (using password: YES) in /home/u499668582/domains/macksolution.online/public_html/conexao.php on line 9
+[14-Sep-2018 17:52:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u499668582_sge'@'localhost' (using password: YES) in /home/u499668582/domains/macksolution.online/public_html/conexao.php on line 9
+[14-Sep-2018 17:52:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u499668582_sge'@'localhost' (using password: YES) in /home/u499668582/domains/macksolution.online/public_html/conexao.php on line 9
+[14-Sep-2018 17:52:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/u499668582/domains/macksolution.online/public_html/index.php on line 39
+[14-Sep-2018 17:52:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u499668582/domains/macksolution.online/public_html/index.php on line 40
