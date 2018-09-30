@@ -6,5 +6,5 @@
 * Jefferson Guerra de Santana
 * Matheus Ribeiro Ferraz 
 * Breno Vasconcelos de Carvalho
-* Aluno 4
+* Bruno Machado da Silva
 * Aluno 5
