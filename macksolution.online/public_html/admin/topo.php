@@ -19,7 +19,7 @@
 
 		$(function(){
 
-			$.superbox.settings = {
+			$.superbox.settings = {es
 
 				closeTxt: "Fechar",
 
@@ -70,7 +70,7 @@
    <img src="img/separador_menu.png" />
    <li class="esp"><a href="professores.php?pg=todos">PROFESSORES</a></li>   
    <img src="img/separador_menu.png" />
-   <li class="esp"><a href="#">ESTUDANTES</a></li>
+   <li class="esp"><a href="estudantes.php?pg=todos">ESTUDANTES</a></li>
    <img src="img/separador_menu.png" /> 
   </ul>
  </div><!-- menu_topo -->
