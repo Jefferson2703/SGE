@@ -1,0 +1,12 @@
+#caixa_preta{
+	background:#000;
+	width:980px;
+	margin:18px auto;
+	height:15px;
+	}
+#box{
+	width:978px;
+	height:620px;
+	margin:-20px auto;
+	border:1px solid #333;
+	}

@@ -1,0 +1,31 @@
+body{
+	text-align:center;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#666;
+	}
+#box_rodape{
+	width:1000px;
+	/*margin:30px auto;*/
+	margin-left: 10%;
+	padding-bottom: 5%;
+	bottom: 0;
+	position: absolute;
+	}
+#box_footer{
+	width:100%;
+	position: fixed;
+	bottom: 0;
+	color: #fff;
+	background-color: rgba(204, 0, 0, .9);
+	height:40px;
+	/*margin:-17px auto;*/
+	}
+.h1{
+	text-align:center;
+	font:12px Arial, Helvetica, sans-serif;
+	/*color:#fff;*/
+	color:#666;
+	font-weight: bold;
+	}
+	
+
