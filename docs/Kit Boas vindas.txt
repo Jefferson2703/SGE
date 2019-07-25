@@ -1,0 +1,25 @@
+Wiki  https://gitlab.safra.com.br/reference/guias-multicanal/wikis/home
+Git   https://gitlab.safra.com.br
+Jira https://atividades.safra.com.br
+Mattermost(Chat) http://sdap030vt.safra.com.br:90 - Chat do banco
+Nexus http://sdap031vt.safra.com.br:8081/#browse/browse/components:npm-local - Repositório de packages
+Kibana https://kibana.safra.com.br/ GUI de log
+
+Tecnologias
+Angular https://angularjs.org/
+Git - guia prático - https://rogerdudler.github.io/git-guide/index.pt_BR.html
+Diretivas Angular JS - https://github.com/suissa/angularjs-directive-manual
+Matchers Jasmine - https://tableless.com.br/jasmine-entendendo-os-matchers/
+Bootstrap Angular - https://angular-ui.github.io/bootstrap/versioned-docs/1.3.3/
+Styleguide Angular Jhon Papa - https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md
+
+
+
+
+
+
+
+
+
+
+
